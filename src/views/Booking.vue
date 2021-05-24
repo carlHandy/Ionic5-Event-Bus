@@ -99,7 +99,7 @@ export default {
 
 <style scoped>
 ion-header {
-    background: #ff834f;
+    background: #3880ff;
 }
 ion-card {
     border-top-right-radius: 25px;
@@ -114,6 +114,6 @@ ion-card {
 }
 
 ion-content {
-    --background:#ff834f;
+    --background:#3880ff;
 }
 </style>

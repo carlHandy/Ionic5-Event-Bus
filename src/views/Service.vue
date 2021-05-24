@@ -132,6 +132,6 @@ export default {
 
 <style scoped>
 ion-button {
-    --background: #ff834f;
+    --background: #3880ff;
 }
 </style>
